@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mina-amanian
 - 👀 I’m interested in Programming, machine learning , python and Security
-- 🌱 I’m currently learning tkinter
+- 🌱 I’m currently learning advance Python
 - 💞️ I’m looking to collaborate on machine learning and deep learning project
 - 📫 How to reach me ...
 
