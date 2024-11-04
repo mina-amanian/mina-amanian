@@ -1,9 +1,17 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 - 👋 Hi, I’m @mina-amanian
-- 👀 I’m interested in Programming, machine learning , python and Security
+  
+- 👨‍💻 All of my projects are available at https://github.com/mina-amanian 👀
+
 - 🌱 I’m currently work as security analyst and also programming in Python
+ 
 - 💞️ I’m looking to collaborate on machine learning and deep learning project
-- 📫 How to reach me ...
+ 
+- 📄 Know about my experiences https://www.linkedin.com/in/mina-amanian/
+
+ 
+
+ 
 
 <!---
 mina-amanian/mina-amanian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
