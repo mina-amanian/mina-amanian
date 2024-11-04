@@ -1,3 +1,4 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 - 👋 Hi, I’m @mina-amanian
 - 👀 I’m interested in Programming, machine learning , python and Security
 - 🌱 I’m currently work as security analyst and also programming in Python
