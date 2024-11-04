@@ -1,5 +1,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-- 👋 Hi, I’m @mina-amanian
+- 👋 Hi, I’m  mina amanian
   
 - 👨‍💻 All of my projects are available at https://github.com/mina-amanian 👀
 
